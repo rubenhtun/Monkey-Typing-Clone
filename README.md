@@ -19,6 +19,10 @@ A fun and interactive **typing practice game** designed to boost your **typing s
 ### 1. Clone the Repository
 To get started, clone the repository to your local machine:
 
+## 🌐 Live Demo  
+You can play the game live on Vercel at:  
+[Monkey Typing Clone Demo](https://monkey-typing-clone.vercel.app)
+
 ```bash
 git clone https://github.com/rubenhtun/monkey-typing-clone.git
 cd monkey-typing-clone
